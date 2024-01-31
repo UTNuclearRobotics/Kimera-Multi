@@ -49,7 +49,7 @@ repositories:
     version: master
   kimera_distributed:
     type: git
-    url: git@github.com:UTNuclearRobotics/Kimera-Distributed.git
+    url: git@github.com:UTNuclearRobotics/kimera_distributed.git
     version: main
   kimera_multi_lcd:
     type: git
