@@ -32,7 +32,7 @@ System has also been tested on Ubuntu 20.04 and ROS Noetic.
 # Create workspace
 mkdir -p catkin_ws/src
 cd catkin_ws/src/
-git clone git@github.com:MIT-SPARK/Kimera-Multi.git kimera_multi
+git clone git@github.com:UTNuclearRobotics/Kimera-Multi.git kimera_multi
 
 # If you do not have these dependencies already
 sudo bash kimera_multi/install/dependencies.sh
